@@ -18,6 +18,15 @@ During this hands-on workshop, participants will:
 4. **Hands-on Labs**: Implementing real-world examples, including object detection and classification tasks.
 5. **Performance Benchmarks**: Measuring speed and accuracy across different hardware setups.
 
+**This Repository also contains the Demo of NIM NVIDIA RAG-based Chatbot utilizing LLAMA 3.1B model, and Vector Store DB (Pickled for upto 10x efficiency), hosted on Streamlit**
+
+## Installation
+
+Before executing `NIM_NVIDIA_CHATBOT.py`, ensure you have the required dependencies installed. Run the following command:
+
+```bash
+pip install -r requirements.txt
+```
 ### Prerequisites:
 - Basic knowledge of deep learning models (PyTorch or TensorFlow).
 
